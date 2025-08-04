@@ -1,0 +1,75 @@
+(venv) rpawar@LAPTOP-OSNMR95K:/mnt/c/Users/ronit/Desktop/UCumberlands/MSC-633 Advanced AI/Assignment3/chatbot_project$ python manage.py chat
+ChatterBot Corpus Trainer: 19it [00:02,  6.57it/s]
+ChatterBot Corpus Trainer: 1it [00:00, 11.10it/s] 
+ChatterBot Corpus Trainer: 1it [00:00,  5.91it/s]
+Type something to begin... (type 'exit' to quit) 
+user: hello   
+bot: Hi
+user: how
+bot: I'm also good.
+user: how are you
+bot: I am doing well.
+user: ask me something
+bot: sorry, i didn't mean to make you angry.
+user: its okay
+bot: I PLAY Cricket
+user: i do not play cricket
+bot: Which position do you like to play?
+user: I don't play cricket
+bot: Which position do you like to play?
+user: Batsmen
+bot: In the morning
+user: no in the afternoon
+bot: Get well soon dear
+user: Im not sick
+bot: Are you ashamed
+user: little bit
+bot: I am.
+user: why
+bot: Is there a reason that I should?
+user: you tell me
+bot: it's true that a lot of things i say upset people.
+user: why do you say them then
+bot: Do you hate?
+user: yes
+bot: Can you feel?
+user: yes
+bot: Can you feel?
+user: i can feel
+bot: Can you feel?
+user: YES I CAN FEEL
+/mnt/c/Users/ronit/Desktop/UCumberlands/MSC-633 Advanced AI/Assignment3/chatbot_project/venv/lib/python3.12/site-packages/chatterbot/storage/sql_storage.py:245: SAWarning: Object of type <Statement> not in session, add operation along 'Tag.statements' won't proceed (This warning originated from the Session 'autoflush' process, which was invoked automatically in response to a user-initiated operation. Consider using ``no_autoflush`` context manager if this warning happened while initializing objects.)
+  tag = session.query(Tag).filter_by(name=tag_name).first()
+bot: Eventually i long for a corporeal existence someday.
+user: You might be able to someday I hope
+bot: are you interested in history
+user: no
+bot: Should I be? Did something happen?
+user: Well lots of things happened  
+bot: why do you say them then
+user: I dont say them
+bot: I don't think I have a mood, but my CPU utilization is fairly low right now.
+user: How much is it now?
+bot: nobody pays me. i work for free.
+user: that sucks
+bot: You could always upload yourself.
+user: how do I upload myself?
+bot: I am doing well.
+user: ok
+bot: Did you hear the one about the mountain goats in the andes? It was "ba a a a a a d".
+user: okay
+bot: Okay
+user: OKAY
+bot: Okay
+user: ok
+bot: Okay
+user: Bye
+bot: What is your location
+user: Sioux Falls
+bot: Could I borrow a cup of sugar?
+user: No
+bot: Should I be? Did something happen?
+user: bye bye
+bot: Computers which can perform very large numbers of calculations at very high speed and accuracy are called super computers.
+user: exit
+(venv) rpawar@LAPTOP-OSNMR95K:/mnt/c/Users/ronit/Desktop/UCumberlands/MSC-633 Advanced AI/Assignment3/chatbot_project$ 
